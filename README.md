@@ -1,5 +1,6 @@
 <h1 align="center">Wordle Hack</h1>
 <h3 align="center">Get Every Answer Correct In Wordle!</h3>
+<h2 align="center">Discord Support Server: https://discord.gg/wqz4jW6a</h2>
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
